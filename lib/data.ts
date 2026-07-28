@@ -102,7 +102,7 @@ export const projects: Project[] = [
     title: 'Fluff And Tie Scrunchies App',
     description:
       'Developed a mobile e-commerce application for Fluff N Tie, a scrunchie and hair accessories brand, using React Native and Expo..',
-    image: '/images/Fluff and Tie Scrunchies.jpeg',
+    image: '/images/Fluff and Tie Scrunchies .jpeg',
     tech: ['Flutter', 'Dart'],
     features: ['Cross-platform UI', 'Responsive layouts', 'Modern widgets'],
     github: 'https://github.com/MuneebaTariq67/Mobile-App-Development',
@@ -122,7 +122,7 @@ export const projects: Project[] = [
     title: 'Student Attandance Managemnet System ',
     description:
       'Developed a Student Attendance Management System as an Object-Oriented Programming and Database Management System project to manage and organize student attendance records efficiently..',
-    image: '/images/Student Attandance Managemnet System.jpeg',
+    image: '/images/student attandance managemnet system.jpeg',
     tech: ['SQL', 'MySQL', 'DBMS'],
     features: ['Normalized schemas', 'Complex queries', 'Reporting'],
     github: 'https://github.com/MuneebaTariq67/database-management-systems',
