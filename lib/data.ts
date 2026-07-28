@@ -129,7 +129,7 @@ export const projects: Project[] = [
     demo: 'https://github.com/MuneebaTariq67/database-management-systems',
   },
   {
-    title: 'Data Grapgh Project',
+    title: 'Data Graph Project',
     description:
       'The project focuses on representing and organizing data in a graph structure, providing a practical understanding of how relationships and connections between different data elements can be modeled and managed.s.',
     image: '/images/dsa.jpeg',
