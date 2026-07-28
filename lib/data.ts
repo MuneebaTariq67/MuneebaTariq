@@ -99,9 +99,9 @@ export const projects: Project[] = [
     demo: 'https://github.com/MuneebaTariq67/Distributed_Web_Crawler_Dask',
   },
   {
-    title: 'Mobile App Development',
+    title: 'Fluff And Tie Scrunchies App',
     description:
-      'Cross-platform mobile application work built with Flutter and Dart, focusing on responsive layouts and clean UI.',
+      'Developed a mobile e-commerce application for Fluff N Tie, a scrunchie and hair accessories brand, using React Native and Expo..',
     image: '/images/project-mobile.png',
     tech: ['Flutter', 'Dart'],
     features: ['Cross-platform UI', 'Responsive layouts', 'Modern widgets'],
@@ -119,9 +119,9 @@ export const projects: Project[] = [
     demo: 'https://github.com/MuneebaTariq67/Library-Management-System-',
   },
   {
-    title: 'Database Management Systems',
+    title: 'Student Attandance Managemnet System ',
     description:
-      'Relational database projects with normalized schemas and complex SQL queries for data retrieval and reporting.',
+      'Developed a Student Attendance Management System as an Object-Oriented Programming project to manage and organize student attendance records efficiently..',
     image: '/images/project-database.png',
     tech: ['SQL', 'MySQL', 'DBMS'],
     features: ['Normalized schemas', 'Complex queries', 'Reporting'],
@@ -129,9 +129,9 @@ export const projects: Project[] = [
     demo: 'https://github.com/MuneebaTariq67/database-management-systems',
   },
   {
-    title: 'Data Structures & Algorithms',
+    title: 'Data Grapgh Project',
     description:
-      'A collection of DSA implementations covering linked lists, trees, sorting and searching with efficient operations.',
+      'The project focuses on representing and organizing data in a graph structure, providing a practical understanding of how relationships and connections between different data elements can be modeled and managed.s.',
     image: '/images/project-dsa.png',
     tech: ['C++', 'DSA'],
     features: ['Core data structures', 'Sorting & searching', 'Algorithm analysis'],
@@ -139,7 +139,7 @@ export const projects: Project[] = [
     demo: 'https://github.com/MuneebaTariq67/DSA',
   },
   {
-    title: 'Object-Oriented Programming',
+    title: 'Student Attandance Managemnet System',
     description:
       'OOP projects demonstrating encapsulation, inheritance and polymorphism through clean, reusable class designs.',
     image: '/images/project-oop.png',
