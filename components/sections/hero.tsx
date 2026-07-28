@@ -119,7 +119,7 @@ export function Hero() {
             transition={{ duration: 0.7, delay: 0.3 }}
             className="mt-8 flex flex-wrap gap-3"
           >
-            <MagneticButton href="/resume.pdf" download variant="primary">
+            <MagneticButton href="https://drive.google.com/file/d/1--gW7gzK_izcOGCyXCktKapNlgBash6F/view?usp=sharing" download variant="primary">
               <Download className="h-4 w-4" /> Download Resume
             </MagneticButton>
             <MagneticButton href="#contact" variant="outline">
