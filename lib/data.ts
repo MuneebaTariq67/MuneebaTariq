@@ -102,7 +102,7 @@ export const projects: Project[] = [
     title: 'Fluff And Tie Scrunchies App',
     description:
       'Developed a mobile e-commerce application for Fluff N Tie, a scrunchie and hair accessories brand, using React Native and Expo..',
-    image: '/images/project-mobile.png',
+    image: '/images/Fluff and Tie Scrunchies.png',
     tech: ['Flutter', 'Dart'],
     features: ['Cross-platform UI', 'Responsive layouts', 'Modern widgets'],
     github: 'https://github.com/MuneebaTariq67/Mobile-App-Development',
@@ -112,7 +112,7 @@ export const projects: Project[] = [
     title: 'Library Management System',
     description:
       'A system to manage book records, member registrations and issue/return tracking with fines, built on OOP principles.',
-    image: '/images/project-library.png',
+    image: '/images/library management system.png',
     tech: ['C++', 'OOP', 'DBMS'],
     features: ['Book catalog', 'Issue/return tracking', 'Fine management'],
     github: 'https://github.com/MuneebaTariq67/Library-Management-System-',
@@ -122,7 +122,7 @@ export const projects: Project[] = [
     title: 'Student Attandance Managemnet System ',
     description:
       'Developed a Student Attendance Management System as an Object-Oriented Programming project to manage and organize student attendance records efficiently..',
-    image: '/images/project-database.png',
+    image: '/images/Student Attandance Managemnet System.png',
     tech: ['SQL', 'MySQL', 'DBMS'],
     features: ['Normalized schemas', 'Complex queries', 'Reporting'],
     github: 'https://github.com/MuneebaTariq67/database-management-systems',
@@ -132,7 +132,7 @@ export const projects: Project[] = [
     title: 'Data Grapgh Project',
     description:
       'The project focuses on representing and organizing data in a graph structure, providing a practical understanding of how relationships and connections between different data elements can be modeled and managed.s.',
-    image: '/images/project-dsa.png',
+    image: '/images/dsa.png',
     tech: ['C++', 'DSA'],
     features: ['Core data structures', 'Sorting & searching', 'Algorithm analysis'],
     github: 'https://github.com/MuneebaTariq67/DSA',
@@ -142,7 +142,7 @@ export const projects: Project[] = [
     title: 'Student Attandance Managemnet System',
     description:
       'OOP projects demonstrating encapsulation, inheritance and polymorphism through clean, reusable class designs.',
-    image: '/images/project-oop.png',
+    image: '/images/student attandance management system.png',
     tech: ['C++', 'Java', 'OOP'],
     features: ['Encapsulation', 'Inheritance', 'Polymorphism'],
     github: 'https://github.com/MuneebaTariq67/OOP',
