@@ -92,7 +92,7 @@ export const projects: Project[] = [
     title: 'Distributed Web Crawler',
     description:
       'A scalable, fault-tolerant crawler that distributes URL fetching across workers using Dask to index the web efficiently.',
-    image: '/images/web crawler.jpeg',
+    image: '/images/web crawler .jpeg',
     tech: ['Python', 'Dask', 'SQL'],
     features: ['Parallel fetching', 'URL deduplication', 'Fault-tolerant storage'],
     github: 'https://github.com/MuneebaTariq67/Distributed_Web_Crawler_Dask',
