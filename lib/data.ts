@@ -122,7 +122,9 @@ export const projects: Project[] = [
     title: 'Student Attandance Managemnet System ',
     description:
       'Developed a Student Attendance Management System as an Object-Oriented Programming and Database Management System project to manage and organize student attendance records efficiently..',
-    image: '/images/Student Attandance Management System.jpeg',
+   
+        image: '/images/Student Attandance Management System.jpeg',
+
     tech: ['SQL', 'MySQL', 'DBMS'],
     features: ['Normalized schemas', 'Complex queries', 'Reporting'],
     github: 'https://github.com/MuneebaTariq67/database-management-systems',
