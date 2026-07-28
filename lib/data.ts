@@ -187,23 +187,3 @@ export const whyHireMe = [
   { title: 'Adaptability', description: 'Comfortable in fast-changing startup environments.' },
 ]
 
-export const testimonials = [
-  {
-    quote:
-      'Muneeba is a dedicated and fast-learning developer. Her grasp of distributed systems stood out in every project.',
-    name: 'Dr. Ayesha Khan',
-    role: 'Professor, Computer Science',
-  },
-  {
-    quote:
-      'A reliable teammate who writes clean code and communicates clearly. She elevated our whole group project.',
-    name: 'Hamza Ali',
-    role: 'Project Teammate',
-  },
-  {
-    quote:
-      'Impressive problem-solving instincts and a genuine passion for building scalable software. Great potential.',
-    name: 'Sara Malik',
-    role: 'Mentor, Software Engineering',
-  },
-]
