@@ -10,7 +10,7 @@ export const contactInfo = {
   email: 'muneebatariq239@gmail.com',
   phone: '03185646482',
   github: 'https://github.com/MuneebaTariq67',
-  linkedin: 'https://www.linkedin.com/in/muneeba-tariq',
+  linkedin: 'https://www.linkedin.com/in/muneeba-tariq-2a7565372/',
 }
 
 export const typingRoles = [
