@@ -22,7 +22,7 @@ export function Contact() {
       href: `tel:${contactInfo.phone.replace(/\s/g, '')}`,
     },
     { icon: GithubIcon, label: 'GitHub', value: 'MuneebaTariq67', href: contactInfo.github, external: true },
-    { icon: LinkedinIcon, label: 'LinkedIn', value: 'Muneeba Tariq', href: contactInfo.linkedin, external: true },
+    { icon: LinkedinIcon, label: 'LinkedIn', value: 'muneeba tariq', href: contactInfo.linkedin, external: true },
   ]
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
